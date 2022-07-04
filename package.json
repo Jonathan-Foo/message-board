@@ -4,6 +4,7 @@
   "description": "message-board built to learn and explore Node.js",
   "main": "index.js",
   "scripts": {
+    "start": "node server.js",
     "devStart": "nodemon server.js"
   },
   "repository": {
